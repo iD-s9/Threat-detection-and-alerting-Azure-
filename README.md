@@ -15,8 +15,8 @@ Without active monitoring, security misconfigurations and risky administrative a
 
 | State | Screenshot |
 |---|---|
-| Defender plans — only Foundational CSPM enabled | [`Defender-plans.png`](./Screenshots/Defender-plans.png) |
-| Security posture report — 0 critical/high/medium/low recommendations | [`Defender-report.png`](./Screenshots/Defender-report.png) |
+| Defender plans, only Foundational CSPM enabled | [`Defender-plans.png`](./Screenshots/Defender-plans.png) |
+| Security posture report, 0 critical/high/medium/low recommendations | [`Defender-report.png`](./Screenshots/Defender-report.png) |
 | Alert rule created and enabled | [`Alert-rule.png`](./Screenshots/Alert-rule.png) |
 
 ## What I learned / next steps
